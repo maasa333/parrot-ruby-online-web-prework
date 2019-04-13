@@ -1,3 +1,3 @@
-def parrot(sound="Squack!")
+def parrot(sound="Squawk!")
     puts sound
 end
