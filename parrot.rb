@@ -1,2 +1,3 @@
 def parrots(sound="Squack!")
-    puts 
+    puts sound
+end
